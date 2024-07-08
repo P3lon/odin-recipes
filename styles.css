@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    background-color: beige;
+    border: 12;
+    border-color: blue;
+}
+
+ol{
+    color: darkgoldenrod;
+    background-color: blanchedalmond;
+    padding: auto;
+    padding-block: 1%;
+    background-position: 1%;
+}
+
+li {
+    color: hotpink;
+}
