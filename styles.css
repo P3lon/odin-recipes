@@ -1,17 +1,23 @@
-#title {
-    color: red;
-    background-color: beige;
+.title {
+    color: rgb(255, 255, 255);
+    background-color: rgba(247, 109, 29, 0.253);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 40px;
     text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    width: 99%;
 }
 
-ol{
-    color: darkgoldenrod;
-    background-color: blanchedalmond;
-    padding: auto;
-    padding-block: 1%;
+.lista{
+    background-color: rgba(226, 94, 84, 0.404);
+    border-radius: 10PX;
+    padding: 30PX;
     background-position: 1%;
+    font-size: 20PX;
+    text-align: center;
+    width: 95%;
 }
 
 li {
